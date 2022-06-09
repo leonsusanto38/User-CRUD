@@ -1,6 +1,6 @@
 # Simple User CRUD
 
-A simple user CRUD project, made with flutter with dart as it language, and Firebase firestore as it NoSQL database.
+A simple user CRUD project, made with flutter with dart as it language, and Firebase firestore as NoSQL database.
 
 ## Feature
 

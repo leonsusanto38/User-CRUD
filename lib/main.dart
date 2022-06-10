@@ -51,7 +51,8 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("User CRUD"),
+        centerTitle: true,
+        title: Text("User CRUD ©leonsusanto38"),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
